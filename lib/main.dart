@@ -2,7 +2,7 @@ import 'dart:io';
 
 import 'package:flutter/material.dart';
 import 'package:green_mart_app/core/utils/themes.dart';
-import 'package:green_mart_app/features/intro/view/splash_view.dart';
+import 'package:green_mart_app/features/intro/splash_view.dart';
 
 void main() {
   runApp(const GreenMart());

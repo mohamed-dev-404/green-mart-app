@@ -8,7 +8,7 @@ class MainButton extends StatelessWidget {
     required this.text,
     required this.onPressed,
     this.bgColor = AppColors.primaryColor,
-    this.height = 55,
+    this.height = 60,
     this.width = double.infinity,
     this.textStyle,
   });

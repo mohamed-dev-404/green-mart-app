@@ -3,7 +3,7 @@ import 'package:green_mart_app/core/functions/navigation_helper.dart';
 import 'package:green_mart_app/core/utils/assets/app_images.dart';
 import 'package:green_mart_app/core/utils/colors/app_colors.dart';
 import 'package:green_mart_app/core/widgets/custom_svg_picture.dart';
-import 'package:green_mart_app/features/intro/view/on_boarding_view.dart';
+import 'package:green_mart_app/features/intro/on_boarding_view.dart';
 
 class SplashView extends StatefulWidget {
   const SplashView({super.key});
